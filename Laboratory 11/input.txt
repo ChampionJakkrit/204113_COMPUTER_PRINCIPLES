@@ -1,0 +1,10 @@
+1,USA,yes,Science,true
+2,USA,no,Comedy,false
+3,USA,yes,Comedy,true
+4,Europe,no,Comedy,true
+5,Europe,yes,Science,false
+6,Europe,yes,Romance,false
+7,Rest of world,yes,Comedy,false
+8,Rest of world,no,Science,false
+9,Europe,yes,Comedy,true
+10,USA,yes,Comedy,true
